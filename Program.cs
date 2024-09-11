@@ -1,14 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d);
 //challenge
-double a = 100;
-double b = 25;
-double c = 1;
-double d = (c * a) / b;
-Console.WriteLine(d);
-// challenge - more complicated calculations
-double e = 5343;
-double f = 100;
-double g = 3;
-double h = (e * g) / f * 3 + 21;
-Console.WriteLine(h);
+double r = 2.50;
+double area = Math.PI * r * r;
+Console.WriteLine(area);

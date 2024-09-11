@@ -1,0 +1,15 @@
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/bin/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/bin/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.deps.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/bin/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.runtimeconfig.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/bin/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/bin/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.pdb
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.sourcelink.json
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/refint/lab-1-numeric-computation-in-c-SavannaDickie.dll
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.pdb
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/lab-1-numeric-computation-in-c-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Desktop/code/mycodedir/lab-1-numeric-computation-in-c-SavannaDickie/obj/Debug/net8.0/ref/lab-1-numeric-computation-in-c-SavannaDickie.dll

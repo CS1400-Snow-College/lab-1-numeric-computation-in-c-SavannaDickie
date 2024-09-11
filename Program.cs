@@ -1,14 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-int a = 7;
-int b = 4;
-int c = 3;
-int d = (a + b) / c;
-int e = (a + b) % c;
-Console.WriteLine($"quotient; {d}");
-Console.WriteLine($"remainder: {e}");
-int max = int.MaxValue;
-int min = int.MinValue;
-Console.WriteLine($"The range of integers is {min} to {max}");
-int what = max + 3;
-Console.WriteLine($"An example of overflow; {what}");
+//challenge
+double a = 100;
+double b = 25;
+double c = 1;
+double d = (c * a) / b;
+Console.WriteLine(d);
+// challenge - more complicated calculations
+double e = 5343;
+double f = 100;
+double g = 3;
+double h = (e * g) / f * 3 + 21;
+Console.WriteLine(h);
